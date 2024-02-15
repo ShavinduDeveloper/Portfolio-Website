@@ -167,6 +167,11 @@
     .contact__form {
         margin: 0 auto;
     }
+
+    .subb {
+        text-align: center;
+    }
+
 }
 
 @media screen and (max-width: 576px) {
@@ -177,6 +182,11 @@
     .contact__form {
         width: 100%;
     }
+
+    .subb {
+        text-align: center;
+    }
+
 }
 
 @media screen and (max-width: 350px) {}
