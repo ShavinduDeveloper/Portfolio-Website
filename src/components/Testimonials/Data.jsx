@@ -16,7 +16,7 @@ export const Data = [
       image: Image2,
       title: "Dulanji Nipunika",
       description:
-        "his or her Comment",
+        "Thanks to Shavindu for an amazing UI/UX project handover! Impressed with the results I can't wait to showcase it to our clients. Highly recommend his skills and talent!",
     },
     {
       id: 3,
