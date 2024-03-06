@@ -7,9 +7,7 @@ const Work = () => {
     <section className="work section" id="portfolio">
          <h2 className="section__title">Portfolio</h2>
             <span className="section__subtitle">Most recent Works</span>
-
-
-            <h1 className="uc">This section is Under Construction.</h1>
+            <h3 className="uc">This section is Under Construction.</h3>
             {/* <Works /> */}
     </section>
   )

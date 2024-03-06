@@ -121,7 +121,7 @@ img {
 }
 
 .uc{
-  font-size: var(--hl-font-size);
+  font-size: var(--h3-font-size);
   color: var(--text-color);
   text-align: center;
   border: 10px double var(--text-color);
@@ -131,6 +131,7 @@ img {
   padding: 2rem;
   border-radius: 2rem;
   opacity: 40%;
+  transform: rotate(-10deg);
 }
 
 .section__subtitle {
