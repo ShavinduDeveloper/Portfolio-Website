@@ -120,6 +120,19 @@ img {
   color: var(--title-color);
 }
 
+.uc{
+  font-size: var(--hl-font-size);
+  color: var(--text-color);
+  text-align: center;
+  border: 10px double var(--text-color);
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  border-radius: 2rem;
+  opacity: 40%;
+}
+
 .section__subtitle {
   display: block;
   font-size: var(--small-font-size);

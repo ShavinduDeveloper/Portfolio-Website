@@ -1,6 +1,6 @@
 import React from 'react'
 import "./work.css"
-import Works from './Works'
+// import Works from './Works'
 
 const Work = () => {
   return (
@@ -8,7 +8,9 @@ const Work = () => {
          <h2 className="section__title">Portfolio</h2>
             <span className="section__subtitle">Most recent Works</span>
 
-            <Works />
+
+            <h1 className="uc">This section is Under Construction.</h1>
+            {/* <Works /> */}
     </section>
   )
 }
