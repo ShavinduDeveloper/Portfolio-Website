@@ -30,6 +30,6 @@ export const Data = [
       image: Image4,
       title: "Chathurangani Kaushalya",
       description:
-        "his or her Comment",
+        "Shavidu is an exceptional talent in the realm of UI/UX design and software development. With a keen eye for creativity and innovation. His proficiency in both design and development makes him a valuable asset to any project or team. I highly recommend Shavidu for his dedication, skill, and ability to bring ideas.",
     },
   ];
