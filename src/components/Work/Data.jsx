@@ -13,15 +13,15 @@ const Work12 = "https://github.com/ShavinduDeveloper/3D-Village/blob/main/Front%
 const Work13 = "https://github.com/ShavinduDeveloper/Foley-Project-01/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
 const Work14 = "https://github.com/ShavinduDeveloper/Foley-Project-02/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
 const Work15 = "https://github.com/ShavinduDeveloper/Font-Store/blob/main/src/Font%20Store.jpeg?raw=true";
-const Work16 = "https://github.com/ShavinduDeveloper/Web-Application-Calculator/blob/main/06%20Calculator%20Wirefram%20%E2%80%93%20with%20Icon-1.png?raw=true";
+const Work16 = "https://github.com/ShavinduDeveloper/Web-Application-Calculator/blob/main/Calculator%20View.png?raw=true";
 const Work17 = "https://github.com/ShavinduDeveloper/Web-Application-STS-Software-Development/blob/main/STS%20Software%20Development%20Mockup.png?raw=true";
-const Work18 = "";
+const Work18 = "https://github.com/ShavinduDeveloper/MediHelp/blob/main/src/img/MediHelp.jpeg?raw=true";
 const Work19 = "https://github.com/ShavinduDeveloper/Online-Greeting-Cards---Web-Project/blob/main/Resources/img/OnlineGreetingCards.jpeg?raw=true";
 const Work20 = "https://github.com/ShavinduDeveloper/NationalFuelPass/blob/main/src/NationalFuelPass.jpeg?raw=true              ";
-const Work21 = "";
-const Work22 = "";
-const Work23 = "";
-const Work24 = "";
+const Work21 = "https://github.com/ShavinduDeveloper/Portfolio-Website/blob/main/src/assets/Portfolio%20Website%20View.jpeg?raw=true";
+const Work22 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
+const Work23 = "https://github.com/ShavinduDeveloper/ASTA/blob/main/Images/4.PNG?raw=true";
+const Work24 = "https://github.com/ShavinduDeveloper/Enemy-Destroyer/blob/main/Enemy%20Destroyer%20.png?raw=true";
 
 export const projectsData = [
     {
