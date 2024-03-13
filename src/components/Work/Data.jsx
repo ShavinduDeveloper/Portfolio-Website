@@ -1,12 +1,12 @@
-const Work1 = "https://github.com/ShavinduDeveloper/ECOSOL/blob/main/ECOSOL%20Introducing%20Post.png?raw=true";
-const Work2 = "https://github.com/ShavinduDeveloper/Sidebar/blob/main/Introducing%20Sidebar%20App%20Presentation.png?raw=true";
-const Work3 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
-const Work4 = "https://github.com/ShavinduDeveloper/Doughnut/blob/main/Views/Views%20of%20After%20Adding%20Texture%20and%20Colours/Left%20View.jpg?raw=true";
-const Work5 = "https://github.com/ShavinduDeveloper/7Up-Bottle/blob/main/Front%20View.jpg?raw=true";
-const Work6 = "https://github.com/ShavinduDeveloper/Small-Injection-Bottle/blob/main/Front%20View.jpg?raw=true";
-const Work7 = "https://github.com/ShavinduDeveloper/Our-Bank/blob/main/Prototype/02.png?raw=true";
-const Work8 = "https://github.com/ShavinduDeveloper/TELL-ME/blob/main/Prototype%20Images/Application/Home.png?raw=true";
-const Work9 = "https://github.com/ShavinduDeveloper/Jar/blob/main/Zoomed%20Jar.jpg?raw=true";
+const Work01 = "https://github.com/ShavinduDeveloper/ECOSOL/blob/main/ECOSOL%20Introducing%20Post.png?raw=true";
+const Work02 = "https://github.com/ShavinduDeveloper/Sidebar/blob/main/Introducing%20Sidebar%20App%20Presentation.png?raw=true";
+const Work03 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
+const Work04 = "https://github.com/ShavinduDeveloper/Doughnut/blob/main/Views/Views%20of%20After%20Adding%20Texture%20and%20Colours/Left%20View.jpg?raw=true";
+const Work05 = "https://github.com/ShavinduDeveloper/7Up-Bottle/blob/main/Front%20View.jpg?raw=true";
+const Work06 = "https://github.com/ShavinduDeveloper/Small-Injection-Bottle/blob/main/Front%20View.jpg?raw=true";
+const Work07 = "https://github.com/ShavinduDeveloper/Our-Bank/blob/main/Prototype/02.png?raw=true";
+const Work08 = "https://github.com/ShavinduDeveloper/TELL-ME/blob/main/Prototype%20Images/Application/Home.png?raw=true";
+const Work09 = "https://github.com/ShavinduDeveloper/Jar/blob/main/Zoomed%20Jar.jpg?raw=true";
 const Work10 = "https://github.com/ShavinduDeveloper/Tea-Table/blob/main/Zoom%20Side%20View.jpg?raw=true";
 const Work11 = "https://github.com/ShavinduDeveloper/White-Colour-Shirt-Design/blob/main/Shirt%20Design%2001%20%5B%20Mockup%20%5D.jpg?raw=true";
 const Work12 = "https://github.com/ShavinduDeveloper/3D-Village/blob/main/Front%20View.jpg?raw=true";
@@ -26,63 +26,63 @@ const Work24 = "https://github.com/ShavinduDeveloper/Enemy-Destroyer/blob/main/E
 export const projectsData = [
     {
         id: 1,
-        image: Work1,
+        image: Work01,
         title: "ECOSOL",
         url: "https://github.com/ShavinduDeveloper/ECOSOL",
         category: "design",
     },
     {
         id: 2,
-        image: Work2,
+        image: Work02,
         title: "Sidebar",
         url: "https://github.com/ShavinduDeveloper/Sidebar",
         category: "design",
     },
     {
         id: 3,
-        image: Work3,
+        image: Work03,
         title: "SchooliGo Mobile Application",
         url: "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application",
         category: "design",
     },
     {
         id: 4,
-        image: Work4,
+        image: Work04,
         title: "Doughnut",
         url: "https://github.com/ShavinduDeveloper/Doughnut",
         category: "design",
     },
     {
         id: 5,
-        image: Work5,
+        image: Work05,
         title: "7Up Bottle",
         url: "https://github.com/ShavinduDeveloper/7Up-Bottle",
         category: "design",
     },
     {
         id: 6,
-        image: Work6,
+        image: Work06,
         title: "Small Injection Bottle",
         url: "https://github.com/ShavinduDeveloper/Small-Injection-Bottle",
         category: "design",
     },
     {
         id: 7,
-        image: Work7,
+        image: Work07,
         title: "Our Bank",
         url: "https://github.com/ShavinduDeveloper/Our-Bank",
         category: "design",
     },
     {
         id: 8,
-        image: Work8,
+        image: Work08,
         title: "TELL ME",
         url: "https://github.com/ShavinduDeveloper/TELL-ME",
         category: "design",
     },
     {
         id: 9,
-        image: Work9,
+        image: Work09,
         title: "Jar",
         url: "https://github.com/ShavinduDeveloper/Jar",
         category: "design",
@@ -163,7 +163,7 @@ export const projectsData = [
         title: "National Fuel Pass",
         url: "https://github.com/ShavinduDeveloper/NationalFuelPass",
         category: "Web",
-    },    
+    },
     {
         id: 21,
         image: Work21,
@@ -193,7 +193,7 @@ export const projectsData = [
         category: "Development",
     },
 ];
-export const projectsNav =[
+export const projectsNav = [
     {
         name: 'all',
     },
