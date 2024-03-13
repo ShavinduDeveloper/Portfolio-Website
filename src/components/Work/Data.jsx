@@ -20,7 +20,7 @@ const Work19 = "https://github.com/ShavinduDeveloper/Online-Greeting-Cards---Web
 const Work20 = "https://github.com/ShavinduDeveloper/NationalFuelPass/blob/main/src/NationalFuelPass.jpeg?raw=true              ";
 const Work21 = "https://github.com/ShavinduDeveloper/Portfolio-Website/blob/main/src/assets/Portfolio%20Website%20View.jpeg?raw=true";
 const Work22 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
-const Work23 = "https://github.com/ShavinduDeveloper/ASTA/blob/main/Images/4.PNG?raw=true";
+const Work23 = "https://github.com/ShavinduDeveloper/ASTA/blob/main/Images/3.png?raw=true";
 const Work24 = "https://github.com/ShavinduDeveloper/Enemy-Destroyer/blob/main/Enemy%20Destroyer%20.png?raw=true";
 
 export const projectsData = [
