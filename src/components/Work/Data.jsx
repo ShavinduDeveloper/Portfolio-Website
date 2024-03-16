@@ -10,18 +10,25 @@ const Work09 = "https://github.com/ShavinduDeveloper/Jar/blob/main/Zoomed%20Jar.
 const Work10 = "https://github.com/ShavinduDeveloper/Tea-Table/blob/main/Zoom%20Side%20View.jpg?raw=true";
 const Work11 = "https://github.com/ShavinduDeveloper/White-Colour-Shirt-Design/blob/main/Shirt%20Design%2001%20%5B%20Mockup%20%5D.jpg?raw=true";
 const Work12 = "https://github.com/ShavinduDeveloper/3D-Village/blob/main/Front%20View.jpg?raw=true";
-const Work13 = "https://github.com/ShavinduDeveloper/Foley-Project-01/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
-const Work14 = "https://github.com/ShavinduDeveloper/Foley-Project-02/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
-const Work15 = "https://github.com/ShavinduDeveloper/Font-Store/blob/main/src/Font%20Store.jpeg?raw=true";
-const Work16 = "https://github.com/ShavinduDeveloper/Web-Application-Calculator/blob/main/Calculator%20View.png?raw=true";
-const Work17 = "https://github.com/ShavinduDeveloper/Web-Application-STS-Software-Development/blob/main/STS%20Software%20Development%20Mockup.png?raw=true";
-const Work18 = "https://github.com/ShavinduDeveloper/MediHelp/blob/main/src/img/MediHelp.jpeg?raw=true";
-const Work19 = "https://github.com/ShavinduDeveloper/Online-Greeting-Cards---Web-Project/blob/main/Resources/img/OnlineGreetingCards.jpeg?raw=true";
-const Work20 = "https://github.com/ShavinduDeveloper/NationalFuelPass/blob/main/src/NationalFuelPass.jpeg?raw=true              ";
-const Work21 = "https://github.com/ShavinduDeveloper/Portfolio-Website/blob/main/src/assets/Portfolio%20Website%20View.jpeg?raw=true";
-const Work22 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
-const Work23 = "https://github.com/ShavinduDeveloper/ASTA/blob/main/Images/3.png?raw=true";
-const Work24 = "https://github.com/ShavinduDeveloper/Enemy-Destroyer/blob/main/Enemy%20Destroyer%20Post.png?raw=true";
+const Work13 = "https://github.com/ShavinduDeveloper/Ai/blob/main/Prototype/Business%20Card%20on%20Macbook%20Pro%20Mockup.png?raw=true";
+const Work14 = "https://github.com/ShavinduDeveloper/STS/blob/main/Prototype/Rubber%20Stamp%20%20MockUp%202.png?raw=true";
+const Work15 = "https://github.com/ShavinduDeveloper/STS-AV/blob/main/Prototype/Artwork%20in%20wall.png?raw=true";
+const Work16 = "https://github.com/ShavinduDeveloper/HR/blob/main/Prototype/Floating%20Tag%20Mockup.png?raw=true";
+const Work17 = "https://github.com/ShavinduDeveloper/UXpress/blob/main/Prototype/Free%20Book%20Mockup%2001.png?raw=true";
+const Work18 = "https://github.com/ShavinduDeveloper/City-Biz-Computers/blob/main/Prototype/transparent%20plate%20mockup.png?raw=true";
+const Work19 = "https://github.com/ShavinduDeveloper/EPIC-Whisper-Creations/blob/main/Prototype/Surface%20Studio%20On%20Table%20Mockup.png?raw=true";
+const Work20 = "https://github.com/ShavinduDeveloper/Foley-Project-01/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
+const Work21 = "https://github.com/ShavinduDeveloper/Foley-Project-02/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
+const Work22 = "https://github.com/ShavinduDeveloper/Font-Store/blob/main/src/Font%20Store.jpeg?raw=true";
+const Work23 = "https://github.com/ShavinduDeveloper/Web-Application-Calculator/blob/main/Calculator%20View.png?raw=true";
+const Work24 = "https://github.com/ShavinduDeveloper/Web-Application-STS-Software-Development/blob/main/STS%20Software%20Development%20Mockup.png?raw=true";
+const Work25 = "https://github.com/ShavinduDeveloper/MediHelp/blob/main/src/img/MediHelp.jpeg?raw=true";
+const Work26 = "https://github.com/ShavinduDeveloper/Online-Greeting-Cards---Web-Project/blob/main/Resources/img/OnlineGreetingCards.jpeg?raw=true";
+const Work27 = "https://github.com/ShavinduDeveloper/NationalFuelPass/blob/main/src/NationalFuelPass.jpeg?raw=true              ";
+const Work28 = "https://github.com/ShavinduDeveloper/Portfolio-Website/blob/main/src/assets/Portfolio%20Website%20View.jpeg?raw=true";
+const Work29 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
+const Work30 = "https://github.com/ShavinduDeveloper/ASTA/blob/main/Images/3.png?raw=true";
+const Work31 = "https://github.com/ShavinduDeveloper/Enemy-Destroyer/blob/main/Enemy%20Destroyer%20Post.png?raw=true";
 
 export const projectsData = [
     {
@@ -111,83 +118,132 @@ export const projectsData = [
     {
         id: 13,
         image: Work13,
+        title: "Ai",
+        url: "https://github.com/ShavinduDeveloper/Ai",
+        category: "design",
+    },
+    {
+        id: 14,
+        image: Work14,
+        title: "STS",
+        url: "https://github.com/ShavinduDeveloper/STS",
+        category: "design",
+    },
+    {
+        id: 15,
+        image: Work15,
+        title: "STS AV",
+        url: "https://github.com/ShavinduDeveloper/STS-AV",
+        category: "design",
+    },
+    {
+        id: 16,
+        image: Work16,
+        title: "HR",
+        url: "https://github.com/ShavinduDeveloper/HR",
+        category: "design",
+    },
+    {
+        id: 17,
+        image: Work17,
+        title: "UXpress",
+        url: "https://github.com/ShavinduDeveloper/UXpress",
+        category: "design",
+    },
+    {
+        id: 18,
+        image: Work18,
+        title: "City Biz Computers",
+        url: "https://github.com/ShavinduDeveloper/City-Biz-Computers",
+        category: "design",
+    },
+    {
+        id: 19,
+        image: Work19,
+        title: "EPIC Whisper Creations",
+        url: "https://github.com/ShavinduDeveloper/EPIC-Whisper-Creations",
+        category: "design",
+    },
+    {
+        id: 20,
+        image: Work20,
         title: "Foley Project 01",
         url: "https://github.com/ShavinduDeveloper/Foley-Project-01",
         category: "foley",
     },
     {
-        id: 14,
-        image: Work14,
+        id: 21,
+        image: Work21,
         title: "Foley Project 02",
         url: "https://github.com/ShavinduDeveloper/Foley-Project-02",
         category: "foley",
     },
     {
-        id: 15,
-        image: Work15,
+        id: 22,
+        image: Work22,
         title: "Font Store",
         url: "https://github.com/ShavinduDeveloper/Font-Store",
         category: "Web",
     },
     {
-        id: 16,
-        image: Work16,
+        id: 23,
+        image: Work23,
         title: "Calculator",
         url: "https://github.com/ShavinduDeveloper/Web-Application-Calculator",
         category: "Web",
     },
     {
-        id: 17,
-        image: Work17,
+        id: 24,
+        image: Work24,
         title: "STS Software Development",
         url: "https://github.com/ShavinduDeveloper/Web-Application-STS-Software-Development",
         category: "Web",
     },
     {
-        id: 18,
-        image: Work18,
+        id: 25,
+        image: Work25,
         title: "MediHelp",
         url: "https://github.com/ShavinduDeveloper/MediHelp",
         category: "Web",
     },
     {
-        id: 19,
-        image: Work19,
+        id: 26,
+        image: Work26,
         title: "Online Greeting Cards",
         url: "https://github.com/ShavinduDeveloper/Online-Greeting-Cards---Web-Project",
         category: "Web",
     },
     {
-        id: 20,
-        image: Work20,
+        id: 27,
+        image: Work27,
         title: "National Fuel Pass",
         url: "https://github.com/ShavinduDeveloper/NationalFuelPass",
         category: "Web",
     },
     {
-        id: 21,
-        image: Work21,
+        id: 28,
+        image: Work28,
         title: "Portfolio Website",
         url: "https://github.com/ShavinduDeveloper/Portfolio-Website",
         category: "Web",
     },
     {
-        id: 22,
-        image: Work22,
+        id: 29,
+        image: Work29,
         title: "SchooliGo Mobile Application",
         url: "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application",
         category: "Development",
     },
     {
-        id: 23,
-        image: Work23,
+        id: 30,
+        image: Work30,
         title: "ASTA",
         url: "https://github.com/ShavinduDeveloper/ASTA",
         category: "Development",
     },
     {
-        id: 24,
-        image: Work24,
+        id: 31,
+        image: Work31,
         title: "Enemy Destroyer",
         url: "https://github.com/ShavinduDeveloper/Enemy-Destroyer",
         category: "Development",
