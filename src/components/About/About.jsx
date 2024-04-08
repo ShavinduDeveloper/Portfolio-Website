@@ -19,7 +19,7 @@ const About = () => {
                     I'm an Undergraduate student Currently studying at the University of Sri Jayewardenepura. I have a wide range of abilities in UX / UI Design, 3D Modeling, Foley ( Reproduction of sound effects ) in the Multimedia Industry and Web development, and Mobile application Development in the Software Development Industry. 
                     </p>
 
-                    <a download="" href={CV} className="button button--flex">
+                    <a download="" href={CV} target="_blank" rel="noreferrer"className="button button--flex">
                         Download CV
                         <svg
                             class="button__icon"
