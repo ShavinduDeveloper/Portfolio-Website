@@ -31,6 +31,7 @@ const Work30 = "https://github.com/ShavinduDeveloper/ASTA/blob/main/Images/3.png
 const Work31 = "https://github.com/ShavinduDeveloper/Enemy-Destroyer/blob/main/Enemy%20Destroyer%20Post.png?raw=true";
 const Work32 = "https://github.com/ShavinduDeveloper/Robot-Car/blob/main/Robot%20Car.jpg?raw=true";
 const Work33 = "https://github.com/ShavinduDeveloper/Street-Light/blob/main/Street%20Light.png?raw=true";
+const Work34 = "https://github.com/ShavinduDeveloper/Perfume/blob/main/Views/Perfume%20potfolio.jpg?raw=true";
 
 export const projectsData = [
     {
@@ -262,6 +263,13 @@ export const projectsData = [
         image: Work33,
         title: "Street Light",
         url: "https://github.com/ShavinduDeveloper/Street-Light/",
+        category: "design",
+    },
+    {
+        id: 34,
+        image: Work34,
+        title: "Perfume",
+        url: "https://github.com/ShavinduDeveloper/Perfume/",
         category: "design",
     },
 ];
