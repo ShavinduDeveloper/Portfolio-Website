@@ -32,6 +32,8 @@ import Work31 from "../../assets/Works Images/Enemy Destroyer Post.png"
 import Work32 from "../../assets/Works Images/Robot Car.jpg"
 import Work33 from "../../assets/Works Images/Street Light.png"
 import Work34 from "../../assets/Works Images/Perfume potfolio.jpg"
+import Work35 from "../../assets/Works Images/Gaming Console Front View.jpg"
+
 
 // const Work01 = "https://github.com/ShavinduDeveloper/ECOSOL/blob/main/ECOSOL%20Introducing%20Post.png?raw=true";
 // const Work02 = "https://github.com/ShavinduDeveloper/Sidebar/blob/main/Introducing%20Sidebar%20App%20Presentation.png?raw=true";
@@ -305,6 +307,13 @@ export const projectsData = [
         image: Work34,
         title: "Perfume",
         url: "https://github.com/ShavinduDeveloper/Perfume/",
+        category: "design",
+    },
+    {
+        id: 35,
+        image: Work35,
+        title: "Gaming Console",
+        url: "https://github.com/ShavinduDeveloper/Gaming-Console",
         category: "design",
     },
 ];
