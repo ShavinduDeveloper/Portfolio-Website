@@ -92,13 +92,12 @@ const Qualification = () => {
           <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Ux Ui Designer</h3>
-                <span className="qualificatio__subtitle">STS Software Development</span>
+                <h3 className="qualification__title">Graphic Designer</h3>
+                <span className="qualificatio__subtitle">Hemas Pharmaceuticals Pvt. Ltd.</span>
                 <div className="qualificatio__calender">
-                  <i className="uil uil-calendar-alt"></i>{" "}2020 - Present
+                  <i className="uil uil-calendar-alt"></i>{" "}2024 - Present
                 </div>
               </div>
-
               <div>
                 < span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
@@ -106,12 +105,19 @@ const Qualification = () => {
             </div>
             <div className="qualification__data">
               <div></div>
-
               <div>
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-
+              <div>
+                <h3 className="qualification__title">Ux Ui Designer</h3>
+                <span className="qualificatio__subtitle">STS Software Development</span>
+                <div className="qualificatio__calender">
+                  <i className="uil uil-calendar-alt"></i>{" "}2020 - Present
+                </div>
+              </div>
+            </div>
+            <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Software Developer</h3>
                 <span className="qualification__subtitle">Bees Digital - Panadura</span>
@@ -119,21 +125,12 @@ const Qualification = () => {
                   <i className="uil uil-calendar-alt"></i>{" "}2021 (06 Months)
                 </div>
               </div>
-            </div>
-            {/* <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">Name</h3>
-                <span className="qualification__subtitle">company</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>{" "}year - year
-                </div>
-              </div>
-
               <div>
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div> */}
+            </div>
+            
           </div>
         </div>
       </div>
