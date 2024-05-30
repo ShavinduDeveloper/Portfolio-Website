@@ -33,6 +33,7 @@ import Work32 from "../../assets/Works Images/Robot Car.jpg"
 import Work33 from "../../assets/Works Images/Street Light.png"
 import Work34 from "../../assets/Works Images/Perfume potfolio.jpg"
 import Work35 from "../../assets/Works Images/Gaming Console Front View.jpg"
+import Work36 from "../../assets/Works Images/Opened USB Drive.jpg"
 
 
 // const Work01 = "https://github.com/ShavinduDeveloper/ECOSOL/blob/main/ECOSOL%20Introducing%20Post.png?raw=true";
@@ -314,6 +315,13 @@ export const projectsData = [
         image: Work35,
         title: "Gaming Console",
         url: "https://github.com/ShavinduDeveloper/Gaming-Console",
+        category: "design",
+    },
+    {
+        id: 36,
+        image: Work36,
+        title: "USB Drive",
+        url: "https://github.com/ShavinduDeveloper/USB-Drive",
         category: "design",
     },
 ];
