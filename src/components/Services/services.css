@@ -1,5 +1,5 @@
 .services__container {
-    grid-template-columns: repeat(3, 270px);
+    grid-template-columns: repeat(2, 270px);
     justify-content: center;
     column-gap: 1.8rem;
 }
@@ -148,13 +148,13 @@
 
 @media screen and (max-width: 992px) {
     .services__container{
-        grid-template-columns: repeat(3, 218px);
+        grid-template-columns: repeat(2, 218px);
     }
 }
 
 @media screen and (max-width: 768px) {
     .services__container{
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
         position: relative;
     }    
 

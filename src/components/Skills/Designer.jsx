@@ -10,7 +10,7 @@ const Frontend = () => {
                         <div>
                             <h3 className="skill__name">
                                 <i class='bx bx-paint-roll'></i>
-                                Ux / Ui Designing
+                                Graphic Designing
                             </h3>
                         </div>
                     </div>
@@ -19,7 +19,7 @@ const Frontend = () => {
                         <div>
                             <h3 className="skill__name">
                                 <i class='bx bx-paint-roll'></i>
-                                Graphic Designing
+                                Ux / Ui Designing
                             </h3>
                         </div>
                     </div>

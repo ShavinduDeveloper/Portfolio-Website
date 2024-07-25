@@ -14,15 +14,62 @@ const Services = () => {
             <span className="section__subtitle">What I Offer</span>
 
             <div className="services__container container grid">
+                
+            <div className="services__content">
+                    <div>
+                        <i className="uil uil-brush-alt services__icon"></i>
+                        <h3 className="services__title">Graphic <br/> Designer</h3>
+                    </div>
+
+                    <span className="services__button" onClick={() => toggleTab(1)}>View More {" "} <i className="uil uil-arrow-right"></i></span>
+
+                    <div className={toggleState === 1 ? "services__modal active-modal" : "services__modal"}>
+                        <div className="services__modal-content">
+                            <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
+
+                            <h3 className="services__modal-title">Graphic Designer</h3>
+                            <p className="services__modal-description">
+                            I am generating your idea into an Attractive Communication Item.
+                            </p>
+
+                            <ul className="services__modal-services grid">
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__model-info">Customer Consultation and Data Gathering.</p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__model-info">Research, Analyzing Data, and Planning.</p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__model-info">Generating Idea and Concepts Development.</p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__model-info">Select a Concept and that Concept turns in to a Design.</p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__model-info">Revisions, Feedback, and Finalization.</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
                 <div className="services__content">
                     <div>
                         <i className="uil uil-cube services__icon"></i>
                         <h3 className="services__title">Ux / Ui <br/> Designer</h3>
                     </div>
 
-                    <span className="services__button" onClick={() => toggleTab(1)}>View More <i className="uil uil-arrow-right"></i></span>
+                    <span className="services__button" onClick={() => toggleTab(2)}>View More <i className="uil uil-arrow-right"></i></span>
 
-                    <div className={toggleState === 1 ? "services__modal active-modal" : "services__modal"}>
+                    <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
@@ -66,9 +113,9 @@ const Services = () => {
                         <h3 className="services__title">3D <br/> Modeling</h3>
                     </div>
 
-                    <span className="services__button" onClick={() => toggleTab(2)}>View More <i className="uil uil-arrow-right"></i></span>
+                    <span className="services__button" onClick={() => toggleTab(3)}>View More <i className="uil uil-arrow-right"></i></span>
 
-                    <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
+                    <div className={toggleState === 3 ? "services__modal active-modal" : "services__modal"}>
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
@@ -112,9 +159,9 @@ const Services = () => {
                         <h3 className="services__title">Foley <br/> Artist</h3>
                     </div>
 
-                    <span className="services__button" onClick={() => toggleTab(3)}>View More {" "} <i className="uil uil-arrow-right"></i></span>
+                    <span className="services__button" onClick={() => toggleTab(4)}>View More {" "} <i className="uil uil-arrow-right"></i></span>
 
-                    <div className={toggleState === 3 ? "services__modal active-modal" : "services__modal"}>
+                    <div className={toggleState === 4 ? "services__modal active-modal" : "services__modal"}>
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
