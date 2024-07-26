@@ -14,11 +14,10 @@ const Services = () => {
             <span className="section__subtitle">What I Offer</span>
 
             <div className="services__container container grid">
-                
-            <div className="services__content">
+                <div className="services__content">
                     <div>
                         <i className="uil uil-brush-alt services__icon"></i>
-                        <h3 className="services__title">Graphic <br/> Designer</h3>
+                        <h3 className="services__title">Graphic <br /> Designer</h3>
                     </div>
 
                     <span className="services__button" onClick={() => toggleTab(1)}>View More {" "} <i className="uil uil-arrow-right"></i></span>
@@ -29,7 +28,7 @@ const Services = () => {
 
                             <h3 className="services__modal-title">Graphic Designer</h3>
                             <p className="services__modal-description">
-                            I am generating your idea into an Attractive Communication Item.
+                                I am generating your idea into an Attractive Communication Item.
                             </p>
 
                             <ul className="services__modal-services grid">
@@ -64,7 +63,7 @@ const Services = () => {
                 <div className="services__content">
                     <div>
                         <i className="uil uil-cube services__icon"></i>
-                        <h3 className="services__title">Ux / Ui <br/> Designer</h3>
+                        <h3 className="services__title">Ux / Ui <br /> Designer</h3>
                     </div>
 
                     <span className="services__button" onClick={() => toggleTab(2)}>View More <i className="uil uil-arrow-right"></i></span>
@@ -110,7 +109,7 @@ const Services = () => {
                 <div className="services__content">
                     <div>
                         <i className="uil uil-swatchbook services__icon"></i>
-                        <h3 className="services__title">3D <br/> Modeling</h3>
+                        <h3 className="services__title">3D <br /> Modeling</h3>
                     </div>
 
                     <span className="services__button" onClick={() => toggleTab(3)}>View More <i className="uil uil-arrow-right"></i></span>
@@ -156,7 +155,7 @@ const Services = () => {
                 <div className="services__content">
                     <div>
                         <i className="uil uil-palette services__icon"></i>
-                        <h3 className="services__title">Foley <br/> Artist</h3>
+                        <h3 className="services__title">Foley <br /> Artist</h3>
                     </div>
 
                     <span className="services__button" onClick={() => toggleTab(4)}>View More {" "} <i className="uil uil-arrow-right"></i></span>

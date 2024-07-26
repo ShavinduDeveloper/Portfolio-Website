@@ -11,6 +11,7 @@
   --title-color-dark: hsl(var(--hue), var(--sat), 0%);
   --text-color: hsl(var(--hue), var(--sat), 46%);
   --body-color: #fffae1;
+  --for-black-bg-text: #aaaaaa;
   --container-color: #fff;
 
   /* Font and Typography */

@@ -35,42 +35,6 @@ import Work34 from "../../assets/Works Images/Perfume potfolio.jpg"
 import Work35 from "../../assets/Works Images/Gaming Console Front View.jpg"
 import Work36 from "../../assets/Works Images/Opened USB Drive.jpg"
 
-
-// const Work01 = "https://github.com/ShavinduDeveloper/ECOSOL/blob/main/ECOSOL%20Introducing%20Post.png?raw=true";
-// const Work02 = "https://github.com/ShavinduDeveloper/Sidebar/blob/main/Introducing%20Sidebar%20App%20Presentation.png?raw=true";
-// const Work03 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
-// const Work04 = "https://github.com/ShavinduDeveloper/Doughnut/blob/main/Views/Views%20of%20After%20Adding%20Texture%20and%20Colours/Left%20View.jpg?raw=true";
-// const Work05 = "https://github.com/ShavinduDeveloper/7Up-Bottle/blob/main/Front%20View.jpg?raw=true";
-// const Work06 = "https://github.com/ShavinduDeveloper/Small-Injection-Bottle/blob/main/Front%20View.jpg?raw=true";
-// const Work07 = "https://github.com/ShavinduDeveloper/Our-Bank/blob/main/Prototype/02.png?raw=true";
-// const Work08 = "https://github.com/ShavinduDeveloper/TELL-ME/blob/main/Prototype%20Images/Application/Home.png?raw=true";
-// const Work09 = "https://github.com/ShavinduDeveloper/Jar/blob/main/Zoomed%20Jar.jpg?raw=true";
-// const Work10 = "https://github.com/ShavinduDeveloper/Tea-Table/blob/main/Zoom%20Side%20View.jpg?raw=true";
-// const Work11 = "https://github.com/ShavinduDeveloper/White-Colour-Shirt-Design/blob/main/Shirt%20Design%2001%20%5B%20Mockup%20%5D.jpg?raw=true";
-// const Work12 = "https://github.com/ShavinduDeveloper/3D-Village/blob/main/Front%20View.jpg?raw=true";
-// const Work13 = "https://github.com/ShavinduDeveloper/Ai/blob/main/Prototype/Business%20Card%20on%20Macbook%20Pro%20Mockup.png?raw=true";
-// const Work14 = "https://github.com/ShavinduDeveloper/STS/blob/main/Prototype/Rubber%20Stamp%20%20MockUp%202.png?raw=true";
-// const Work15 = "https://github.com/ShavinduDeveloper/STS-AV/blob/main/Prototype/Artwork%20in%20wall.png?raw=true";
-// const Work16 = "https://github.com/ShavinduDeveloper/HR/blob/main/Prototype/Floating%20Tag%20Mockup.png?raw=true";
-// const Work17 = "https://github.com/ShavinduDeveloper/UXpress/blob/main/Prototype/Free%20Book%20Mockup%2001.png?raw=true";
-// const Work18 = "https://github.com/ShavinduDeveloper/City-Biz-Computers/blob/main/Prototype/transparent%20plate%20mockup.png?raw=true";
-// const Work19 = "https://github.com/ShavinduDeveloper/EPIC-Whisper-Creations/blob/main/Prototype/Surface%20Studio%20On%20Table%20Mockup.png?raw=true";
-// const Work20 = "https://github.com/ShavinduDeveloper/Foley-Project-01/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
-// const Work21 = "https://github.com/ShavinduDeveloper/Foley-Project-02/blob/main/Final%20Out/Foley%20Project%20in%20Fl%20Studio.png?raw=true";
-// const Work22 = "https://github.com/ShavinduDeveloper/Font-Store/blob/main/src/Font%20Store.jpeg?raw=true";
-// const Work23 = "https://github.com/ShavinduDeveloper/Web-Application-Calculator/blob/main/Calculator%20View.png?raw=true";
-// const Work24 = "https://github.com/ShavinduDeveloper/Web-Application-STS-Software-Development/blob/main/STS%20Software%20Development%20Mockup.png?raw=true";
-// const Work25 = "https://github.com/ShavinduDeveloper/MediHelp/blob/main/src/img/MediHelp.jpeg?raw=true";
-// const Work26 = "https://github.com/ShavinduDeveloper/Online-Greeting-Cards---Web-Project/blob/main/Resources/img/OnlineGreetingCards.jpeg?raw=true";
-// const Work27 = "https://github.com/ShavinduDeveloper/NationalFuelPass/blob/main/src/NationalFuelPass.jpeg?raw=true              ";
-// const Work28 = "https://github.com/ShavinduDeveloper/Portfolio-Website/blob/main/src/assets/Portfolio%20Website%20View.jpeg?raw=true";
-// const Work29 = "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application/blob/main/SchooliGo%20Mobile%20Application/Resources/SchooliGo%20Introducing%20Post.png?raw=true";
-// const Work30 = "https://github.com/ShavinduDeveloper/ASTA/blob/main/Images/3.png?raw=true";
-// const Work31 = "https://github.com/ShavinduDeveloper/Enemy-Destroyer/blob/main/Enemy%20Destroyer%20Post.png?raw=true";
-// const Work32 = "https://github.com/ShavinduDeveloper/Robot-Car/blob/main/Robot%20Car.jpg?raw=true";
-// const Work33 = "https://github.com/ShavinduDeveloper/Street-Light/blob/main/Street%20Light.png?raw=true";
-// const Work34 = "https://github.com/ShavinduDeveloper/Perfume/blob/main/Views/Perfume%20potfolio.jpg?raw=true";
-
 export const projectsData = [
     {
         id: 1,
@@ -78,6 +42,11 @@ export const projectsData = [
         title: "ECOSOL",
         url: "https://github.com/ShavinduDeveloper/ECOSOL",
         category: "design",
+        description: "",
+        area: "Ux / Ui Design",
+        softwares: "Figma , Adobe XD",
+        type: "Group Project",
+        status: "Finished"
     },
     {
         id: 2,
@@ -85,6 +54,11 @@ export const projectsData = [
         title: "Sidebar",
         url: "https://github.com/ShavinduDeveloper/Sidebar",
         category: "design",
+        description: "",
+        area: "Ux / Ui Design",
+        softwares: "Figma , Adobe XD",
+        type: "Group Project",
+        status: "Finished"
     },
     {
         id: 3,
@@ -92,6 +66,11 @@ export const projectsData = [
         title: "SchooliGo Mobile Application",
         url: "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application",
         category: "design",
+        description: "",
+        area: "Ux / Ui Design",
+        softwares: "Figma , Adobe XD",
+        type: "Group Project",
+        status: "Finished"
     },
     {
         id: 4,
@@ -99,6 +78,11 @@ export const projectsData = [
         title: "Doughnut",
         url: "https://github.com/ShavinduDeveloper/Doughnut",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 5,
@@ -106,6 +90,11 @@ export const projectsData = [
         title: "7Up Bottle",
         url: "https://github.com/ShavinduDeveloper/7Up-Bottle",
         category: "design",
+        description: "I am generating your idea into an Attractive Communication Item.",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 6,
@@ -113,6 +102,11 @@ export const projectsData = [
         title: "Small Injection Bottle",
         url: "https://github.com/ShavinduDeveloper/Small-Injection-Bottle",
         category: "design",
+        description: "I am generating your idea into an Attractive Communication Item.",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 7,
@@ -120,6 +114,11 @@ export const projectsData = [
         title: "Our Bank",
         url: "https://github.com/ShavinduDeveloper/Our-Bank",
         category: "design",
+        description: "",
+        area: "Ux / Ui Design",
+        softwares: "Figma , Adobe XD",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 8,
@@ -127,6 +126,11 @@ export const projectsData = [
         title: "TELL ME",
         url: "https://github.com/ShavinduDeveloper/TELL-ME",
         category: "design",
+        description: "",
+        area: "Ux / Ui Design , 3D Modeling",
+        softwares: "Figma , Adobe XD , Autodesk Maya",
+        type: "Group Project",
+        status: "Finished"
     },
     {
         id: 9,
@@ -134,6 +138,11 @@ export const projectsData = [
         title: "Jar",
         url: "https://github.com/ShavinduDeveloper/Jar",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 10,
@@ -141,6 +150,11 @@ export const projectsData = [
         title: "Tea Table",
         url: "https://github.com/ShavinduDeveloper/Tea-Table",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 11,
@@ -148,6 +162,11 @@ export const projectsData = [
         title: "White Colour Shirt Design",
         url: "https://github.com/ShavinduDeveloper/White-Colour-Shirt-Design",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 12,
@@ -155,6 +174,11 @@ export const projectsData = [
         title: "3D Village",
         url: "https://github.com/ShavinduDeveloper/3D-Village",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 13,
@@ -162,6 +186,11 @@ export const projectsData = [
         title: "Ai",
         url: "https://github.com/ShavinduDeveloper/Ai",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 14,
@@ -169,6 +198,11 @@ export const projectsData = [
         title: "STS",
         url: "https://github.com/ShavinduDeveloper/STS",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 15,
@@ -176,6 +210,11 @@ export const projectsData = [
         title: "STS AV",
         url: "https://github.com/ShavinduDeveloper/STS-AV",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 16,
@@ -183,6 +222,11 @@ export const projectsData = [
         title: "HR",
         url: "https://github.com/ShavinduDeveloper/HR",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 17,
@@ -190,6 +234,11 @@ export const projectsData = [
         title: "UXpress",
         url: "https://github.com/ShavinduDeveloper/UXpress",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 18,
@@ -197,6 +246,11 @@ export const projectsData = [
         title: "City Biz Computers",
         url: "https://github.com/ShavinduDeveloper/City-Biz-Computers",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 19,
@@ -204,6 +258,11 @@ export const projectsData = [
         title: "EPIC Whisper Creations",
         url: "https://github.com/ShavinduDeveloper/EPIC-Whisper-Creations",
         category: "design",
+        description: "",
+        area: "Graphic Design",
+        softwares: "Adobe Illustrator , Adobe Photoshop",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 20,
@@ -211,6 +270,11 @@ export const projectsData = [
         title: "Foley Project 01",
         url: "https://github.com/ShavinduDeveloper/Foley-Project-01",
         category: "foley",
+        description: "",
+        area: "Audio Production",
+        softwares: "FL Studio , Pro Tools",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 21,
@@ -218,6 +282,11 @@ export const projectsData = [
         title: "Foley Project 02",
         url: "https://github.com/ShavinduDeveloper/Foley-Project-02",
         category: "foley",
+        description: "",
+        area: "Audio Production",
+        softwares: "FL Studio , Pro Tools",
+        type: "Group Project",
+        status: "Finished"
     },
     {
         id: 22,
@@ -225,6 +294,11 @@ export const projectsData = [
         title: "Font Store",
         url: "https://github.com/ShavinduDeveloper/Font-Store",
         category: "Web",
+        description: "",
+        area: "Web Development",
+        softwares: "Apache NetBeans IDE 21 , XAMPP Server",
+        type: "Individual",
+        status: "Under Development"
     },
     {
         id: 23,
@@ -232,6 +306,11 @@ export const projectsData = [
         title: "Calculator",
         url: "https://github.com/ShavinduDeveloper/Web-Application-Calculator",
         category: "Web",
+        description: "",
+        area: "Web Development",
+        softwares: "Apache NetBeans IDE 21 , XAMPP Server",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 24,
@@ -239,6 +318,11 @@ export const projectsData = [
         title: "STS Software Development",
         url: "https://github.com/ShavinduDeveloper/Web-Application-STS-Software-Development",
         category: "Web",
+        description: "",
+        area: "Web Development",
+        softwares: "Apache NetBeans IDE 21 , XAMPP Server",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 25,
@@ -246,6 +330,11 @@ export const projectsData = [
         title: "MediHelp",
         url: "https://github.com/ShavinduDeveloper/MediHelp",
         category: "Web",
+        description: "",
+        area: "Web Development",
+        softwares: "Apache NetBeans IDE 21 , XAMPP Server",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 26,
@@ -253,6 +342,11 @@ export const projectsData = [
         title: "Online Greeting Cards",
         url: "https://github.com/ShavinduDeveloper/Online-Greeting-Cards---Web-Project",
         category: "Web",
+        description: "",
+        area: "Web Development",
+        softwares: "Apache NetBeans IDE 21 , XAMPP Server",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 27,
@@ -260,6 +354,11 @@ export const projectsData = [
         title: "National Fuel Pass",
         url: "https://github.com/ShavinduDeveloper/NationalFuelPass",
         category: "Web",
+        description: "",
+        area: "Web Development",
+        softwares: "Apache NetBeans IDE 21 , XAMPP Server",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 28,
@@ -267,6 +366,11 @@ export const projectsData = [
         title: "Portfolio Website",
         url: "https://github.com/ShavinduDeveloper/Portfolio-Website",
         category: "Web",
+        description: "",
+        area: "Web Development",
+        softwares: "Visual Studio Code ( VS Code )",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 29,
@@ -274,6 +378,11 @@ export const projectsData = [
         title: "SchooliGo Mobile Application",
         url: "https://github.com/ShavinduDeveloper/SchooliGo-Mobile-Application",
         category: "Development",
+        description: "",
+        area: "Mobile Application Development",
+        softwares: "Android Studio , Visual Studio Code ( VS Code ) ",
+        type: "Group Project",
+        status: "Finished"
     },
     {
         id: 30,
@@ -281,6 +390,11 @@ export const projectsData = [
         title: "ASTA",
         url: "https://github.com/ShavinduDeveloper/ASTA",
         category: "Development",
+        description: "",
+        area: "Arduino and ML",
+        softwares: "Visual Studio Code ( VS Code ) , Arduino",
+        type: "Group Project",
+        status: "Finished"
     },
     {
         id: 31,
@@ -288,6 +402,11 @@ export const projectsData = [
         title: "Enemy Destroyer",
         url: "https://github.com/ShavinduDeveloper/Enemy-Destroyer",
         category: "Development",
+        description: "",
+        area: "Game Development",
+        softwares: "Unity ( Game Engine )",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 32,
@@ -295,6 +414,11 @@ export const projectsData = [
         title: "Robot Car",
         url: "https://github.com/ShavinduDeveloper/Robot-Car",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 33,
@@ -302,6 +426,11 @@ export const projectsData = [
         title: "Street Light",
         url: "https://github.com/ShavinduDeveloper/Street-Light/",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Blender 4.0",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 34,
@@ -309,6 +438,11 @@ export const projectsData = [
         title: "Perfume",
         url: "https://github.com/ShavinduDeveloper/Perfume/",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 35,
@@ -316,6 +450,11 @@ export const projectsData = [
         title: "Gaming Console",
         url: "https://github.com/ShavinduDeveloper/Gaming-Console",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
     {
         id: 36,
@@ -323,6 +462,11 @@ export const projectsData = [
         title: "USB Drive",
         url: "https://github.com/ShavinduDeveloper/USB-Drive",
         category: "design",
+        description: "",
+        area: "3D Modeling",
+        softwares: "Autodesk Maya",
+        type: "Individual",
+        status: "Finished"
     },
 ];
 export const projectsNav = [
