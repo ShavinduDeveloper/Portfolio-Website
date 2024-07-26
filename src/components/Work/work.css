@@ -135,20 +135,6 @@
     border-radius: 1.5rem;
 }
 
-.url-display {
-    background-color: var(--title-color-dark);
-    padding: 15px 30px;
-    border-radius: 50px;
-    z-index: 100;
-    display: grid;
-    position: absolute;
-    bottom: 50px;
-    font-size: var(--tiny-font-size);
-    color: var(--body-color);
-    user-select: all;
-    text-align: center;
-}
-
 .works__modal-close {
     position: absolute;
     top: 1.5rem;
@@ -246,10 +232,6 @@
         border-radius: 1rem;
         margin: 10px 0;
         transition: 1s ease-out;
-    }
-
-    .url-display {
-        width: 400px;
     }
 }
 

@@ -47,11 +47,10 @@ const WorkItems = ({ item }) => {
 
             <li className="works__modal-work">
               <i className="uil uil-check-circle works__modal-icon"></i>
-              <a href={item.url} className="work__button" target="_blank" rel="noreferrer"><p className="works__model-info link-url"><b>View Project : </b><i class="uil uil-external-link-alt"></i></p></a>
+              <a href={item.url} className="work__button" target="_blank" rel="noreferrer"><p className="works__model-info"><b>View Project : </b><i class="uil uil-external-link-alt"></i></p></a>
             </li>
           </ul>
         </div>
-        <div className='url-display'>{item.url}</div>
       </div>
 
     </div >
