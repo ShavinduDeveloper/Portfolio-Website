@@ -95,7 +95,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Graphic Designer</h3>
                 <span className="qualificatio__subtitle">Hemas Pharmaceuticals Pvt. Ltd.</span>
                 <div className="qualificatio__calender">
-                  <i className="uil uil-calendar-alt"></i>{" "}2024 - Present
+                  <i className="uil uil-calendar-alt"></i>{" "}2024 (06 Months)
                 </div>
               </div>
               <div>
@@ -113,7 +113,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Ux Ui Designer</h3>
                 <span className="qualificatio__subtitle">STS Software Development</span>
                 <div className="qualificatio__calender">
-                  <i className="uil uil-calendar-alt"></i>{" "}2020 - Present
+                  <i className="uil uil-calendar-alt"></i>{" "}2020 - 2024
                 </div>
               </div>
             </div>

@@ -16,7 +16,7 @@ const About = () => {
                     <Info />
 
                     <p className="about__description">
-                    I am a Graphic Designer at <b>Hemas Pharmaceutical (Pvt) Ltd - Principle Healthcare.</b> Also ,I'm an Undergraduate student Currently studying at the <b>University of Sri Jayewardenepura.</b> I have a wide range of abilities in <b>Graphic Design</b> , <b>UX / UI Design</b> , <b>3D Modeling</b> , <b>Foley ( Reproduction of sound effects )</b> in the Multimedia Industry and <b>Web development</b> , and <b>Mobile application Development</b> in the Software Development Industry. 
+                    I am a <b>Final Year Undergraduate Student</b> at the <b>University of Sri Jayewardenepura, Faculty of Technology.</b> Also I have <b>6 month experience</b> of <b>Graphic Designer</b> at <b>Hemas Pharmaceutical (Pvt) Ltd - Principle Healthcare.</b> Further , I am Focusing on <b>Multimedia Technology</b> at my University.  I am more interested in <b>Graphic Designvv</b> , <b>UI UX Design</b> , <b>3D Modeling</b> , <b>Foley</b>  ,  <b>Web Development</b> ,  and <b>Robotics</b> like new Technologies.  Also , I am passionate about <b>Software Development</b> . . .
                     </p>
 
                     <a download="" href={CV} target="_blank" rel="noreferrer"className="button button--flex">
